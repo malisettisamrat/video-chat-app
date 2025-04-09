@@ -3,7 +3,7 @@
 - Used Cloudflare durable object for persistent data to manage the session storage.
 - Used STUN/TURN servers for establishing the peer connections.
 
-Application Flow
+**Application Flow**
 1. User Interface
 - Landing Page: Users can create or join a meeting using a unique link.
 - Video Call Page: Displays local and remote video streams.
